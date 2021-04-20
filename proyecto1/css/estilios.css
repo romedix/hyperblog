@@ -12,6 +12,7 @@ body {
     text-align: left;
     border: 1px solid darkgray;
     margin: 0 auto;
+    margin-top: 4px;
     background: white;
 }
 #container #post {
