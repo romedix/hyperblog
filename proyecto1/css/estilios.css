@@ -28,3 +28,11 @@ body {
     font-weight: normal;
     font-size: 0.8em;
 }
+
+#footer {
+    background-color: rgb(110, 109, 109);
+    margin: 0 auto;
+    text-align: center;
+    padding: 4px;
+    color: white;
+}
