@@ -7,5 +7,6 @@ An incredible blog for the course of [Git](https://www.google.com "Git") and [Gi
 * Github workflow
 * The true love for good practices
 * Very crazy tricks by the teacher
+* Created by the amazing Platzi Team
 
 as a reminder: **This readme.md is a joke** Disigned as an example. visit [Platzi](https://www.platzi.com "Platzi") and view the course.
